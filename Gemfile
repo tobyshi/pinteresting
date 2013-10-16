@@ -17,7 +17,7 @@ end
 group :production, do
 	gem 'pg'
 	gem 'rails_12factor'
-do
+end
 
 group :doc do
   gem 'sdoc', require: false
